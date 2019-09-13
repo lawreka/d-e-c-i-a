@@ -14,3 +14,62 @@
 
 @media only screen and (min-width: 1500px) {
 }
+body{
+	overflow-x: hidden;
+}
+blockquote{
+	background-color: rgba(102, 102, 102, 0.2);
+	border-left: 8px solid #666;
+	color: #000;
+}
+.footnote{
+	position: relative;
+	display: inline;
+	vertical-align: super;
+	font-size: 12px;
+	padding: 4px;
+}
+.footnote .citation{
+	display: none;
+	min-width: 200px;
+	background-color: #000;
+	color: #00e145;
+	font-size: 12px;
+  padding: 8px;
+  border-radius: 6px;
+	position: absolute;
+  z-index: 1;
+}
+.footnote:hover .citation{
+  display: block;
+}
+.oblique{
+	font-style: oblique;
+}
+.intro{
+	max-width: 70%;
+	margin-left:auto;
+	margin-right: auto;
+	padding: 16px;
+}
+.introtext{
+	margin-bottom:120px;
+}
+.footertext{
+	color: #fff;
+}
+.nav-footer .sitemap a{
+	color:#39d2e0;
+	display:inline;
+}
+.nav-footer .sitemap a:hover{
+	color:#fff;
+}
+.footericon{
+	width: 24px;
+	vertical-align: sub;
+	padding-right: 8px;
+}
+.caption{
+	text-align:center;
+}
