@@ -37,23 +37,23 @@ sidebar_label: Contents
 
 ### [Why design matters in human-computer interaction: aesthetic theory and dark design](embodied-conversational-interfaces#why-design-matters-in-human-computer-interaction-aesthetic-theory-and-dark-design)
 
-## Designing Embodied Conversational Interface Agents
+## [Designing Embodied Conversational Interface Agents](d-e-c-i-a.md)
 
-## I. Types of Embodiment: Human and Nonhuman Bodies
+## [I. Types of Embodiment: Human and Nonhuman Bodies](d-e-c-i-a#i-types-of-embodiment-human-vs-nonhuman-bodies)
 
-### Humanoid embodiments
+### [Humanoid embodiments](d-e-c-i-a#humanoid-embodiments)
 
-#### Case Study: Mavis Beacon
+#### [Case Study: Mavis Beacon](d-e-c-i-a#case-study-mavis-beacon)
 
-### Nonhuman embodiments
+### [Nonhuman embodiments](d-e-c-i-a#nonhuman-embodiments)
 
-#### Case Study: Replika
+#### [Case Study: Replika](d-e-c-i-a#case-study-replika)
 
-### Robotic embodiments
+### [Robotic embodiments](d-e-c-i-a#robotic-embodiments)
 
-#### Case Study: Woebot
+#### [Case Study: Woebot](d-e-c-i-a#case-study-woebot)
 
-### Discussion & conclusion
+### [Discussion & conclusion](d-e-c-i-a#discussion-conclusion)
 
 ## II. InterFACES: Anthropomorphic Design and Facial Representation
 
@@ -69,7 +69,7 @@ sidebar_label: Contents
 
 ### Anthropomorphization and ability
 
-###Discussion & conclusion
+### Discussion & conclusion
 
 ## III. Realism, the Uncanny Valley and Stylistic Solutions
 

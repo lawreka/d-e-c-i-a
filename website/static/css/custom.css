@@ -53,13 +53,18 @@ blockquote{
 	padding: 16px;
 }
 .introtext{
-	margin-bottom:120px;
+	padding-bottom:120px;
+	background-color:#000;
+	color:#fff;
 }
 .footertext{
 	color: #fff;
 }
+.nav-footer{
+	background-color: #000;
+}
 .nav-footer .sitemap a{
-	color:#39d2e0;
+	color:#01abdc;
 	display:inline;
 }
 .nav-footer .sitemap a:hover{
@@ -72,4 +77,18 @@ blockquote{
 }
 .caption{
 	text-align:center;
+}
+.homeContainer{
+	background-color:#000;
+}
+.projectTitle{
+	color:#fff;
+}
+.coverimage{
+	width: 100%;
+	background-color: #000;
+	text-align: center;
+}
+.pixelface{
+	max-height:50vh;
 }

@@ -144,7 +144,7 @@ In 1997, Microsoft included their cartoon agent technology in the Microsoft Offi
 ![The Microsoft Office Assistants](assets/figs/fig-11-assistants.JPG)
 <div class="caption"><h4>Figure 11. The Microsoft Office Assistants</h4></div>
 
-Several characters were included in the Microsoft Office Assistant program (as seen in Figure 13), including a wizard (literalizing the metaphor of the Answer Wizard), human characters resembling both Einstein and Shakespeare, two dogs most likely descended from the cartoon dog from Bob, two cats, a puzzle vaguely resembling the Microsoft logo, a planet Earth, an alien spaceship, a smiling cartoon face, and a bipedal, three-dimensionally rendered robot. Iterations of several these character designs (and a few that never saw the light of day, such as the genie) can be seen in several patents filed by Microsoft from 1994 to 1998 (Figure 14, via McCracken, 2009).
+Several characters were included in the Microsoft Office Assistant program (as seen in Figure 11), including a wizard (literalizing the metaphor of the Answer Wizard), human characters resembling both Einstein and Shakespeare, two dogs most likely descended from the cartoon dog from Bob, two cats, a puzzle vaguely resembling the Microsoft logo, a planet Earth, an alien spaceship, a smiling cartoon face, and a bipedal, three-dimensionally rendered robot. Iterations of several these character designs (and a few that never saw the light of day, such as the genie) can be seen in several patents filed by Microsoft from 1994 to 1998 (Figure 12, via McCracken, 2009).
 
 The default character, a paper clip with human facial features and an articulated wire body, named Clippit but colloquially known as Clippy, has become widely known as one of the most annoying conversational interfaces ever developed. Clippy will be the subject of our next case study.
 
@@ -153,37 +153,37 @@ The default character, a paper clip with human facial features and an articulate
 
 
 ![Microsoft patent with embodied conversational agent](assets/figs/fig-12-1.png)
-__Software Platform Having a Real World Interface With Animated Characters July 8, 1994__
+<div class="caption"><strong>Software Platform Having a Real World Interface With Animated Characters July 8, 1994</strong></div>
 
 ![Microsoft patent with embodied conversational agent](assets/figs/fig-12-2.png)
-__Use of Avatars With Automated Gesturing and Bounded Interaction in an On-Line Chat Session December 14, 1995__
+<div class="caption"><strong>Use of Avatars With Automated Gesturing and Bounded Interaction in an On-Line Chat Session December 14, 1995</strong></div>
 
 ![Microsoft patent with embodied conversational agent](assets/figs/fig-12-3.png)
-__Intelligent User Assistance Facility July 19, 1996__
+<div class="caption"><strong>Intelligent User Assistance Facility July 19, 1996</strong></div>
 
 ![Microsoft patent with embodied conversational agent](assets/figs/fig-12-4.png)
-__Client Server Animation System for Managing Interactive User Interface Characters May 19, 1997__
+<div class="caption"><strong>Client Server Animation System for Managing Interactive User Interface Characters May 19, 1997</strong></div>
 
 ![Microsoft patent with embodied conversational agent](assets/figs/fig-12-5.png)
-__Software Platform Having a Real World Interface With Animated Characters June 19, 1997__
+<div class="caption"><strong>Software Platform Having a Real World Interface With Animated Characters June 19, 1997</strong></div>
 
-![Microsoft patent with embodied conversational agent](assets/figs/fig-12-6.png)
-__Method for Managing Simultaneous Display of Multiple Windows in a Graphical User Interface July 15, 1997__
+![Microsoft patent with embodied conversational agent](assets/figs/fig-12-6.jpg)
+<div class="caption"><strong>Method for Managing Simultaneous Display of Multiple Windows in a Graphical User Interface July 15, 1997</strong></div>
 
 ![Microsoft patent with embodied conversational agent](assets/figs/fig-12-7.png)
-__Intelligent User Assistance Facility November 20, 1998__
+<div class="caption"><strong>Intelligent User Assistance Facility November 20, 1998</strong></div>
 
 ![Microsoft patent with embodied conversational agent](assets/figs/fig-12-8.png)
-__System for Improving Search Text December 23, 1998__
+<div class="caption"><strong>System for Improving Search Text December 23, 1998</strong></div>
 
 Although none of them have become as famous as Clippy, conversational interface agents have already been deployed in many retail and customer service contexts. ANNA is a virtual assistant designed to help shoppers on the IKEA website, and agents named Tellie the Teller, Harvey Wallbanker, and BOB the Bank of Baltimore have appeared as anthropomorphic bank terminals (Wang et al., 2007). Other agents in this category include JULIE, the Amtrak transit system’s virtual telephone operator, and several companies in addition to the aforementioned Pandorabots, Inc., such as Rovion, iNago, Artificial Life, and Landbot.io, offer tools to help retailers create their own conversational agent experiences (Wang et. al, 2007).
 
-An embodied conversational agent named Vera (Figure 16) is gaining traction in the world of Human Resources, with the claim that it can cut the time and cost of recruiting by one third. Developed by a Russian startup and in use in Russia since December of 2016, Vera has conducted interviews for approximately 300 corporate clients including PepsiCo and L’Oréal, simultaneously performing multiple video and voice calls and then narrowing the field of applicants down to the most suitable ten percent (Khrennikov, 2018).
+An embodied conversational agent named Vera (Figure 13) is gaining traction in the world of Human Resources, with the claim that it can cut the time and cost of recruiting by one third. Developed by a Russian startup and in use in Russia since December of 2016, Vera has conducted interviews for approximately 300 corporate clients including PepsiCo and L’Oréal, simultaneously performing multiple video and voice calls and then narrowing the field of applicants down to the most suitable ten percent (Khrennikov, 2018).
 
 ![Vera](assets/figs/fig-13-vera.jpg)
 <div class="caption"><h4>Figure 13, Vera</h4></div>
 
-The final recent example of an embodied conversational interface agent created for a commercial context is one that won’t be available to most users, since it was built by the aeronautics company Airbus for the German Space Administration and sent to the International Space Station between June and October 2018. CIMON (Crew Interactive Mobile CompanioN, seen in Figure 17) is the first artificially intelligent agent to be included on an ISS mission, and is programmed to support astronauts in routine work and problem-solving. With IBM’s Watson AI and a synthesized voice program, it is intended to learn from the ISS crew how to assist them in checklists and procedures more efficiently over time. The structure housing its friendly face is a 3D printed ball of plastic and metal, and is designed to float freely in zero gravity (Close et al., 2018).
+The final recent example of an embodied conversational interface agent created for a commercial context is one that won’t be available to most users, since it was built by the aeronautics company Airbus for the German Space Administration and sent to the International Space Station between June and October 2018. CIMON (Crew Interactive Mobile CompanioN, seen in Figure 14) is the first artificially intelligent agent to be included on an ISS mission, and is programmed to support astronauts in routine work and problem-solving. With IBM’s Watson AI and a synthesized voice program, it is intended to learn from the ISS crew how to assist them in checklists and procedures more efficiently over time. The structure housing its friendly face is a 3D printed ball of plastic and metal, and is designed to float freely in zero gravity (Close et al., 2018).
 
 ![CIMON](assets/figs/fig-14-cimon.jpg)
 <div class="caption"><h4>Figure 14, CIMON</h4></div>

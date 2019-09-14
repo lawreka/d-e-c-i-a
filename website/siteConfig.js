@@ -9,8 +9,8 @@
 // site configuration options.
 
 const siteConfig = {
-  title: 'Cyber Corpus', // Title for your website.
-  tagline: `Kathryn Lawrence • Reed College • May 2014`,
+  title: 'Designing Embodied Conversational Interface Agents', // Title for your website.
+  tagline: `Kathryn Lawrence • HMKW Berlin • December 2018`,
   url: 'https://kathrynisabelle.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -18,7 +18,7 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'cybercorpus',
+  projectName: 'd-e-c-i-a',
   organizationName: 'lawreka',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
@@ -31,9 +31,9 @@ const siteConfig = {
   ],
 
   /* path to images for header/footer */
-  headerIcon: 'img/computergirl.png',
-  footerIcon: 'img/computergirl.png',
-  favicon: 'img/computergirl.png',
+  headerIcon: 'img/pixelface.jpg',
+  footerIcon: 'img/pixelface.jpg',
+  favicon: 'img/pixelface.jpg',
 
   /* Colors for website */
   colors: {
