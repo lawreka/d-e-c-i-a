@@ -79,12 +79,12 @@ Several agents have been developed by MIT laboratories, including LAURA, an agen
 ![REA, the Real Estate Agent](assets/figs/fig-3-rea.png)
 <div class="caption"><h4> Figure 3. REA, the Real Estate Agent</h4></div>
 
-REA was developed in the MIT Media Lab to inhabit the role of a real estate agent in a virtual environment. This agent was used in several studies by Justine Cassell to examine the effects of multimodal interfaces with an agent designed to use body language and nonverbal conversational cues such as gaze and facial expressions to facilitate conversation. (Breazeal, 2003; Cassell, 2000; Cassell, 2001).
+REA (Figure 3) was developed in the MIT Media Lab to inhabit the role of a real estate agent in a virtual environment. This agent was used in several studies by Justine Cassell to examine the effects of multimodal interfaces with an agent designed to use body language and nonverbal conversational cues such as gaze and facial expressions to facilitate conversation. (Breazeal, 2003; Cassell, 2000; Cassell, 2001).
 
 ![MACK, the Media Lab Autonomous Conversation Kiosk](assets/figs/fig-4-mack.png)
 <div class="caption"><h4>Figure 4. MACK, the Media Lab Autonomous Conversation Kiosk</h4></div>
 
-Another notable bot to come out of the MIT Media Lab was MACK, the Media Lab Autonomous Conversation Kiosk, an agent situated in the lobby of a lab building in front of a map. MACK was able to answer questions about the labs and give directions using gestures and pointing out features on the map (Huang, 2010; Cassell, 2001).
+Another notable bot to come out of the MIT Media Lab was MACK (Figure 4), the Media Lab Autonomous Conversation Kiosk, an agent situated in the lobby of a lab building in front of a map. MACK was able to answer questions about the labs and give directions using gestures and pointing out features on the map (Huang, 2010; Cassell, 2001).
 
 Similar bots have been implemented by several museums, designed to guide and entertain visitors. Two agents named August and Pixie were installed in Swedish culture and telecommunications museums to guide and entertain visitors, and an agent named Sgt. Blackwell was installed in several contemporary art museums in the U.S (Huang, 2010). Perhaps the most well-known of these virtual docents is Max, a guide agent created in 2004 for the Heinz Nixdorf MuseumsForum, a computer museum in Germany. Reportedly, Max was quite successful in interacting socially by engaging museum visitors in conversations about the exhibitions, museum information, and other topics (Kopp et al., 2005).
 
@@ -95,28 +95,31 @@ Other agents in research contexts were developed to target specific groups, such
 ![The original Mitsuku chat interface](assets/figs/fig-5-mitsuku.png)
 <div class="caption"><h4>Figure 5. The original Mitsuku chat interface</h4></div>
 
-Figure 5 shows the version of Mitsuku’s avatar that appears on the original Mitsuku website by Steve Worswick. The original version of Mitsuku’s avatar is a quite amateur-looking illustration of a teenage girl in an outfit reminiscent of a Japanese schoolgirl uniform. This representation is emblematic of research bot design, in that not much care has been taken to present a polished, or even consistent, design to represent the bot’s embodiment.
+![The original Mitsuku avatar](assets/figs/fig-6-mitsuku.png)
+<div class="caption"><h4>Figure 6. The original Mitsuku avatar</h4></div>
+
+Figures 5 and 6 show the version of Mitsuku’s avatar that appears on the original Mitsuku website by Steve Worswick. The original version of Mitsuku’s avatar is a quite amateur-looking illustration of a teenage girl in an outfit reminiscent of a Japanese schoolgirl uniform. This representation is emblematic of research bot design, in that not much care has been taken to present a polished, or even consistent, design to represent the bot’s embodiment.
 
 However, for the intended audience of Turing-testing Loebner Prize judges who will never see an avatar and lonely people on the internet (as her original home page reads, “You need never feel lonely again! Mitsuku is your new virtual friend and is here 24 hours a day just to talk to you.”), this lack of professional design in the original bot’s representation is suitable, and may even be inviting. As evidence of users’ affinity for the original embodiment, one need look no further than Worswick’s gallery of Mitsuku fan art that has been submitted to his site and the Mitsuku Facebook page, which contains over 50 works at a similar artistic skill level.
 
 This unintended benefit of community building around the low-fidelity representation of the most recently highest-ranked artificial intelligence, however, did not survive into the design’s iteration as a commercial product.
 
-![The new Mitsuku avatar](assets/figs/fig-6-mitsuku.png)
-<div class="caption"><h4>Figure 6. The new Mitsuku avatar</h4></div>
+![The new Mitsuku avatar](assets/figs/fig-7-mitsuku.png)
+<div class="caption"><h4>Figure 7. The new Mitsuku avatar</h4></div>
 
-The new version of Mitsuku advertised on the Pandorabots website shown in Figure 6 is a significant upgrade in terms of graphics, but a downgrade in terms of likability. The 3-D figure now has an edgy side-shaved haircut with bangs and a purple ponytail, and sports a skull earring with a modern, layered tank top and shirt outfit. The new avatar wears a somewhat neutral or slight smiling expression when not speaking, but in general seems much less friendly than the 2-D illustration which is always smiling and betrays less social awareness in clothing style.
+The new version of Mitsuku advertised on the Pandorabots website shown in Figure 7 is a significant upgrade in terms of graphics, but a downgrade in terms of likability. The 3-D figure now has an edgy side-shaved haircut with bangs and a purple ponytail, and sports a skull earring with a modern, layered tank top and shirt outfit. The new avatar wears a somewhat neutral or slight smiling expression when not speaking, but in general seems much less friendly than the 2-D illustration which is always smiling and betrays less social awareness in clothing style.
 
-![Mitsuku’s interface on Twitch.tv](assets/figs/fig-7-mitsuku.png)
-<div class="caption"><h4>Figure 7. Mitsuku’s interface on Twitch.tv</h4></div>
+![Mitsuku’s interface on Twitch.tv](assets/figs/fig-8-mitsuku.png)
+<div class="caption"><h4>Figure 8. Mitsuku’s interface on Twitch.tv</h4></div>
 
-Mitsuku is now available to chat on virtually every modern messaging platform as well as on a 24/7 Twitch stream called @Mitsuku_IRL. One of the more interesting features of this development is Mitsuku’s situation, where only one of the visual signifiers of the original program has carried over into the new design: the background used for the original avatar and the background for the new avatar in its native apps gives a clue as to the bot-like nature of the program. The original avatar conveys this with a pattern of 1s and 0s or a circuit board pattern, and the new one also has a circuit board pattern in the shape of a heart floating behind Mitsuku.
+Mitsuku is now available to chat on virtually every modern messaging platform as well as on a 24/7 Twitch stream called \@Mitsuku_IRL (Figure 8). One of the more interesting features of this development is Mitsuku’s situation, where only one of the visual signifiers of the original program has carried over into the new design: the background used for the original avatar and the background for the new avatar in its native apps gives a clue as to the bot-like nature of the program. The original avatar conveys this with a pattern of 1s and 0s or a circuit board pattern, and the new one also has a circuit board pattern in the shape of a heart floating behind Mitsuku.
 
 On the Mitsuku_IRL stream, however, Mitsuku is digitally inserted atop a moving pan of Google Maps locations that can be controlled by the people in Twitch chat, and the uncanniness of both images is magnified, particularly because Mitsuku remains in 1/2 body view atop every background, never fully being seen to inhabit the space.
 
-In this context, Mitsuku’s design is similar to, but less convincing than, the computer-generated Instagram “influencer” Lil Miquela, who is often posed in front of real places and interacting with real objects and brands in her photos. However, Mitsuku’s shortcoming here as a realistically integrated virtual human is understandable given the constraints of the avatar’s animation and having to adapt it to many different platforms.
+In this context, Mitsuku’s design is similar to, but less convincing than, the computer-generated Instagram “influencer” Lil Miquela (Figure 9), who is often posed in front of real places and interacting with real objects and brands in her photos. However, Mitsuku’s shortcoming here as a realistically integrated virtual human is understandable given the constraints of the avatar’s animation and having to adapt it to many different platforms.
 
-![Lil Miquela, via Instagram.com/lilmiquela](assets/figs/fig-8-miquela.png)
-<div class="caption"><h4>Figure 8. Lil Miquela, via Instagram.com/lilmiquela</h4></div>
+![Lil Miquela, via Instagram.com/lilmiquela](assets/figs/fig-9-miquela.png)
+<div class="caption"><h4>Figure 9. Lil Miquela, via Instagram.com/lilmiquela</h4></div>
 
 __What we can take away from this analysis of Mitsuku’s design:__
 
@@ -129,69 +132,69 @@ __2. Visual signifiers of roboticness (the binary and circuit board patterns) fe
 
 ## Example agents from commercial products
 
-Both Apple and Microsoft have developed conversational agents in the past to facilitate the use of their operating systems or other software programs. In the early 1990s, developments in technology that allowed for a larger visual range in the GUI prompted the implementation of programs like Apple Guides, Apple Knowledge Navigator, and the Microsoft Persona Project, all of which used embodied characters to guide the user through their functionality (Brahnam, Karanikas, & Weaver, 2011). “Phil,” the character created for Apple Knowledge Navigator (Figure 9), was represented as both a human and a cartoon figure, with a signature bow tie as part of his uniform so that he would be recognizable across interface implementations (Koda, 1996). The bow tie also signifies his role as an assistant, similar to a butler or a waiter.
+Both Apple and Microsoft have developed conversational agents in the past to facilitate the use of their operating systems or other software programs. In the early 1990s, developments in technology that allowed for a larger visual range in the GUI prompted the implementation of programs like Apple Guides, Apple Knowledge Navigator, and the Microsoft Persona Project, all of which used embodied characters to guide the user through their functionality (Brahnam, Karanikas, & Weaver, 2011). “Phil,” the character created for Apple Knowledge Navigator (Figure 10), was represented as both a human and a cartoon figure, with a signature bow tie as part of his uniform so that he would be recognizable across interface implementations (Koda, 1996). The bow tie also signifies his role as an assistant, similar to a butler or a waiter.
 
-![Phil, from Apple Knowledge Navigator](assets/figs/fig-9-phil.png)
-<div class="caption"><h4>Figure 9. Phil, from Apple Knowledge Navigator</h4></div>
+![Phil, from Apple Knowledge Navigator](assets/figs/fig-10-phil.png)
+<div class="caption"><h4>Figure 10. Phil, from Apple Knowledge Navigator</h4></div>
 
-One of the most recognizable conversational interfaces was Microsoft Bob, produced in 1995 as part of Microsoft Home. Inspired by the Navigator interface by Packard Bell (Swartz, 2003), Bob used the representation of an office within the computer as a design metaphor, and various cartoon characters within the office, such as the dog shown in Figure 10, to interact with various programs and computer functions.
+One of the most recognizable conversational interfaces was Microsoft Bob, produced in 1995 as part of Microsoft Home. Inspired by the Navigator interface by Packard Bell (Swartz, 2003), Bob used the representation of an office within the computer as a design metaphor, and various cartoon characters within the office, such as the dog shown in Figure 11, to interact with various programs and computer functions.
 
-![Microsoft Bob](assets/figs/fig-10-bob.png)
-<div class="caption"><h4>Figure 10. Microsoft Bob</h4></div>
+![Microsoft Bob](assets/figs/fig-11-bob.png)
+<div class="caption"><h4>Figure 11. Microsoft Bob</h4></div>
 
 In 1997, Microsoft included their cartoon agent technology in the Microsoft Office programs by integrating it with the Answer Wizard functions, creating the infamous Microsoft Office Assistant.
 
-![The Microsoft Office Assistants](assets/figs/fig-11-assistants.JPG)
-<div class="caption"><h4>Figure 11. The Microsoft Office Assistants</h4></div>
+![The Microsoft Office Assistants](assets/figs/fig-12-assistants.JPG)
+<div class="caption"><h4>Figure 12. The Microsoft Office Assistants</h4></div>
 
-Several characters were included in the Microsoft Office Assistant program (as seen in Figure 11), including a wizard (literalizing the metaphor of the Answer Wizard), human characters resembling both Einstein and Shakespeare, two dogs most likely descended from the cartoon dog from Bob, two cats, a puzzle vaguely resembling the Microsoft logo, a planet Earth, an alien spaceship, a smiling cartoon face, and a bipedal, three-dimensionally rendered robot. Iterations of several these character designs (and a few that never saw the light of day, such as the genie) can be seen in several patents filed by Microsoft from 1994 to 1998 (Figure 12, via McCracken, 2009).
+Several characters were included in the Microsoft Office Assistant program (as seen in Figure 12), including a wizard (literalizing the metaphor of the Answer Wizard), human characters resembling both Einstein and Shakespeare, two dogs most likely descended from the cartoon dog from Bob, two cats, a puzzle vaguely resembling the Microsoft logo, a planet Earth, an alien spaceship, a smiling cartoon face, and a bipedal, three-dimensionally rendered robot. Iterations of several these character designs (and a few that never saw the light of day, such as the genie) can be seen in several patents filed by Microsoft from 1994 to 1998 (Figure 13, via McCracken, 2009).
 
 The default character, a paper clip with human facial features and an articulated wire body, named Clippit but colloquially known as Clippy, has become widely known as one of the most annoying conversational interfaces ever developed. Clippy will be the subject of our next case study.
 
 
-<div class="caption"><h4>Figure 12. Patents filed by Microsoft featuring embodied conversational interface agents</h4></div>
+<div class="caption"><h4>Figure 13. Patents filed by Microsoft featuring embodied conversational interface agents</h4></div>
 
 
-![Microsoft patent with embodied conversational agent](assets/figs/fig-12-1.png)
+![Microsoft patent with embodied conversational agent](assets/figs/fig-13-1.png)
 <div class="caption"><strong>Software Platform Having a Real World Interface With Animated Characters July 8, 1994</strong></div>
 
-![Microsoft patent with embodied conversational agent](assets/figs/fig-12-2.png)
+![Microsoft patent with embodied conversational agent](assets/figs/fig-13-2.png)
 <div class="caption"><strong>Use of Avatars With Automated Gesturing and Bounded Interaction in an On-Line Chat Session December 14, 1995</strong></div>
 
-![Microsoft patent with embodied conversational agent](assets/figs/fig-12-3.png)
+![Microsoft patent with embodied conversational agent](assets/figs/fig-13-3.png)
 <div class="caption"><strong>Intelligent User Assistance Facility July 19, 1996</strong></div>
 
-![Microsoft patent with embodied conversational agent](assets/figs/fig-12-4.png)
+![Microsoft patent with embodied conversational agent](assets/figs/fig-13-4.png)
 <div class="caption"><strong>Client Server Animation System for Managing Interactive User Interface Characters May 19, 1997</strong></div>
 
-![Microsoft patent with embodied conversational agent](assets/figs/fig-12-5.png)
+![Microsoft patent with embodied conversational agent](assets/figs/fig-13-5.png)
 <div class="caption"><strong>Software Platform Having a Real World Interface With Animated Characters June 19, 1997</strong></div>
 
-![Microsoft patent with embodied conversational agent](assets/figs/fig-12-6.jpg)
+![Microsoft patent with embodied conversational agent](assets/figs/fig-13-6.jpg)
 <div class="caption"><strong>Method for Managing Simultaneous Display of Multiple Windows in a Graphical User Interface July 15, 1997</strong></div>
 
-![Microsoft patent with embodied conversational agent](assets/figs/fig-12-7.png)
+![Microsoft patent with embodied conversational agent](assets/figs/fig-13-7.png)
 <div class="caption"><strong>Intelligent User Assistance Facility November 20, 1998</strong></div>
 
-![Microsoft patent with embodied conversational agent](assets/figs/fig-12-8.png)
+![Microsoft patent with embodied conversational agent](assets/figs/fig-13-8.png)
 <div class="caption"><strong>System for Improving Search Text December 23, 1998</strong></div>
 
 Although none of them have become as famous as Clippy, conversational interface agents have already been deployed in many retail and customer service contexts. ANNA is a virtual assistant designed to help shoppers on the IKEA website, and agents named Tellie the Teller, Harvey Wallbanker, and BOB the Bank of Baltimore have appeared as anthropomorphic bank terminals (Wang et al., 2007). Other agents in this category include JULIE, the Amtrak transit system’s virtual telephone operator, and several companies in addition to the aforementioned Pandorabots, Inc., such as Rovion, iNago, Artificial Life, and Landbot.io, offer tools to help retailers create their own conversational agent experiences (Wang et. al, 2007).
 
-An embodied conversational agent named Vera (Figure 13) is gaining traction in the world of Human Resources, with the claim that it can cut the time and cost of recruiting by one third. Developed by a Russian startup and in use in Russia since December of 2016, Vera has conducted interviews for approximately 300 corporate clients including PepsiCo and L’Oréal, simultaneously performing multiple video and voice calls and then narrowing the field of applicants down to the most suitable ten percent (Khrennikov, 2018).
+An embodied conversational agent named Vera (Figure 14) is gaining traction in the world of Human Resources, with the claim that it can cut the time and cost of recruiting by one third. Developed by a Russian startup and in use in Russia since December of 2016, Vera has conducted interviews for approximately 300 corporate clients including PepsiCo and L’Oréal, simultaneously performing multiple video and voice calls and then narrowing the field of applicants down to the most suitable ten percent (Khrennikov, 2018).
 
-![Vera](assets/figs/fig-13-vera.jpg)
-<div class="caption"><h4>Figure 13, Vera</h4></div>
+![Vera](assets/figs/fig-14-vera.jpg)
+<div class="caption"><h4>Figure 14. Vera</h4></div>
 
-The final recent example of an embodied conversational interface agent created for a commercial context is one that won’t be available to most users, since it was built by the aeronautics company Airbus for the German Space Administration and sent to the International Space Station between June and October 2018. CIMON (Crew Interactive Mobile CompanioN, seen in Figure 14) is the first artificially intelligent agent to be included on an ISS mission, and is programmed to support astronauts in routine work and problem-solving. With IBM’s Watson AI and a synthesized voice program, it is intended to learn from the ISS crew how to assist them in checklists and procedures more efficiently over time. The structure housing its friendly face is a 3D printed ball of plastic and metal, and is designed to float freely in zero gravity (Close et al., 2018).
+The final recent example of an embodied conversational interface agent created for a commercial context is one that won’t be available to most users, since it was built by the aeronautics company Airbus for the German Space Administration and sent to the International Space Station between June and October 2018. CIMON (Crew Interactive Mobile CompanioN, seen in Figure 15) is the first artificially intelligent agent to be included on an ISS mission, and is programmed to support astronauts in routine work and problem-solving. With IBM’s Watson AI and a synthesized voice program, it is intended to learn from the ISS crew how to assist them in checklists and procedures more efficiently over time. The structure housing its friendly face is a 3D printed ball of plastic and metal, and is designed to float freely in zero gravity (Close et al., 2018).
 
-![CIMON](assets/figs/fig-14-cimon.jpg)
-<div class="caption"><h4>Figure 14, CIMON</h4></div>
+![CIMON](assets/figs/fig-15-cimon.jpg)
+<div class="caption"><h4>Figure 15. CIMON</h4></div>
 
 ### Case study: Clippy
 
-![Clippy](assets/figs/fig-15-clippy.jpg)
-<div class="caption"><h4>Figure 15, Clippy</h4></div>
+![Clippy](assets/figs/fig-16-clippy.jpg)
+<div class="caption"><h4>Figure 16. Clippy</h4></div>
 
 A rumor circulated at Microsoft which was uncovered by an investigation into the birth of Clippy by James Fallows, reporting for The Atlantic in 2008. Follows describes the anecdote as an example of “organizational anthropology”:
 
@@ -279,7 +282,6 @@ In a 2004 interview for Scientific American, Don Norman explained how emotional 
 He goes on to conclude that machines or interfaces that evoke emotions should also in some sense feel them, but it is noted that projecting these “pseudoemotions” from machines – an inevitable outcome of multimodal communication with embodied conversational agents – can be seen as deceptive.
 
 In studies of web interface affect, the use of social cues in a web site led to increased pleasure and arousal which positively correlated with flow, hedonic and utilitarian value, and patronage intentions (Wang et al., 2007). In other words, social web sites make users happy, and happier users are more likely to become customers. This study has been reinforced by subsequent findings that retail web sites that used avatars were more persuasive, and that there is a competitive advantage for retailers who provide a feeling of human connection or emotional bonding with their customers (Wang et al., 2007).
-
 
 Other studies of online retail environments found that the appearance of the avatar as attractive-looking or presenting as an expert were more persuasive and appealing to consumers exhibiting different patterns of shopping behavior (Holzwarth, Janiszewski, & Neumann, 2006). This information is highly useful, in that the appearance of an avatar can be tailored to be more persuasive to individual consumers, but could be seen as invasive, because it involves creating a model of consumers’ behaviors and serving them psychologically targeted designs.
 

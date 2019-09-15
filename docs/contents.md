@@ -3,11 +3,11 @@ id: contents
 title: Contents
 sidebar_label: Contents
 ---
-## [Introduction](intro.md)
+# [Introduction](intro.md)
 
 ### [Developing principles for the design of embodied conversational interface agents](intro#developing-principles-for-the-design-of-embodied-conversational-interface-agents)
 
-## [Speak, Machine: Human-Computer Interaction and the Literalization of the Conversational Interface Metaphor](speak-machine.md)
+# [Speak, Machine: Human-Computer Interaction and the Literalization of the Conversational Interface Metaphor](speak-machine.md)
 
 ### [Human-Computer Interaction and interface metaphors](speak-machine#human-computer-interaction-and-interface-metaphors)
 
@@ -37,23 +37,23 @@ sidebar_label: Contents
 
 ### [Why design matters in human-computer interaction: aesthetic theory and dark design](embodied-conversational-interfaces#why-design-matters-in-human-computer-interaction-aesthetic-theory-and-dark-design)
 
-## [Designing Embodied Conversational Interface Agents](d-e-c-i-a.md)
+# Designing Embodied Conversational Interface Agents
 
-## [I. Types of Embodiment: Human and Nonhuman Bodies](d-e-c-i-a#i-types-of-embodiment-human-vs-nonhuman-bodies)
+## [I. Types of Embodiment: Human and Nonhuman Bodies](i-types#i-types-of-embodiment-human-vs-nonhuman-bodies)
 
-### [Humanoid embodiments](d-e-c-i-a#humanoid-embodiments)
+### [Humanoid embodiments](i-types#humanoid-embodiments)
 
-#### [Case Study: Mavis Beacon](d-e-c-i-a#case-study-mavis-beacon)
+#### [Case Study: Mavis Beacon](i-types#case-study-mavis-beacon)
 
-### [Nonhuman embodiments](d-e-c-i-a#nonhuman-embodiments)
+### [Nonhuman embodiments](i-types#nonhuman-embodiments)
 
-#### [Case Study: Replika](d-e-c-i-a#case-study-replika)
+#### [Case Study: Replika](i-types#case-study-replika)
 
-### [Robotic embodiments](d-e-c-i-a#robotic-embodiments)
+### [Robotic embodiments](i-types#robotic-embodiments)
 
-#### [Case Study: Woebot](d-e-c-i-a#case-study-woebot)
+#### [Case Study: Woebot](i-types#case-study-woebot)
 
-### [Discussion & conclusion](d-e-c-i-a#discussion-conclusion)
+### [Discussion & conclusion](i-types#discussion-conclusion)
 
 ## II. InterFACES: Anthropomorphic Design and Facial Representation
 
