@@ -54,11 +54,11 @@ class Index extends React.Component {
     return (
       <div>
         <HomeSplash siteConfig={siteConfig} language={language} />
-        <div class="coverimage">
-          <img class="pixelface" src={this.props.config.headerIcon} />
+        <div className="coverimage">
+          <img className="pixelface" src={this.props.config.headerIcon} />
         </div>
-        <div class="introtext">
-          <div class="intro"><em>"We could have made them look like anything, but we made them look like us" – Austin Walker, Friends at the Table</em>
+        <div className="introtext">
+          <div className="intro"><em>"We could have made them look like anything, but we made them look like us" – Austin Walker, Friends at the Table</em>
           </div>
         </div>
       </div>

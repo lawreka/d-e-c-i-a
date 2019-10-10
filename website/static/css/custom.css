@@ -14,12 +14,40 @@
 
 @media only screen and (min-width: 1500px) {
 }
+@font-face {
+    font-family: 'px437_ati_8x16regular';
+    src: url('px437_ati_8x16-webfont.woff2') format('woff2'),
+         url('px437_ati_8x16-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'px437_toshibalcd_8x8regular';
+    src: url('px437_toshibalcd_8x8-webfont.woff2') format('woff2'),
+         url('px437_toshibalcd_8x8-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 body{
 	overflow-x: hidden;
+	background-color: #000;
 }
 blockquote{
 	background-color: rgba(102, 102, 102, 0.2);
 	border-left: 8px solid #666;
+	color: #000;
+}
+img{
+	max-height: 600px;
+	width: auto;
+}
+a{
+	color: #01abdc;
+}
+h1{
+	font-family: 'px437_ati_8x16regular';
+}
+h1 a{
 	color: #000;
 }
 .footnote{
@@ -51,6 +79,7 @@ blockquote{
 	margin-left:auto;
 	margin-right: auto;
 	padding: 16px;
+	color: #fff;
 }
 .introtext{
 	padding-bottom:120px;
@@ -70,6 +99,9 @@ blockquote{
 .nav-footer .sitemap a:hover{
 	color:#fff;
 }
+.footerlink{
+	padding: 16px;
+}
 .footericon{
 	width: 24px;
 	vertical-align: sub;
@@ -83,6 +115,8 @@ blockquote{
 }
 .projectTitle{
 	color:#fff;
+	font-family: 'px437_toshibalcd_8x8regular';
+	text-transform: uppercase;
 }
 .coverimage{
 	width: 100%;
@@ -91,4 +125,33 @@ blockquote{
 }
 .pixelface{
 	max-height:50vh;
+}
+.toc-headings li a{
+	color: #fff;
+}
+.toc-headings li a:hover{
+	color: #01abdc;
+}
+.toc-headings li a:active{
+	color: #01abdc;
+}
+.post{
+	background-color: #fff;
+	padding: 50px;
+	outline: black;
+	outline-offset: -16px;
+	outline-style: solid;
+	outline-width: 8px;
+}
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+	.post{
+		padding: 24px;
+		outline: black;
+		outline-offset: -8px;
+		outline-style: solid;
+		outline-width: 4px;
+	}
+}
+.onPageNav .toc-headings > li > a.active{
+	color: #01abdc;
 }
