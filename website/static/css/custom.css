@@ -14,20 +14,6 @@
 
 @media only screen and (min-width: 1500px) {
 }
-@font-face {
-    font-family: 'px437_ati_8x16regular';
-    src: url('px437_ati_8x16-webfont.woff2') format('woff2'),
-         url('px437_ati_8x16-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'px437_toshibalcd_8x8regular';
-    src: url('px437_toshibalcd_8x8-webfont.woff2') format('woff2'),
-         url('px437_toshibalcd_8x8-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
 body{
 	overflow-x: hidden;
 	background-color: #000;
@@ -43,12 +29,6 @@ img{
 }
 a{
 	color: #01abdc;
-}
-h1{
-	font-family: 'px437_ati_8x16regular';
-}
-h1 a{
-	color: #000;
 }
 .footnote{
 	position: relative;
@@ -80,6 +60,11 @@ h1 a{
 	margin-right: auto;
 	padding: 16px;
 	color: #fff;
+}
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+  .intro{
+    max-width: 100%;
+  }
 }
 .introtext{
 	padding-bottom:120px;
@@ -115,8 +100,6 @@ h1 a{
 }
 .projectTitle{
 	color:#fff;
-	font-family: 'px437_toshibalcd_8x8regular';
-	text-transform: uppercase;
 }
 .coverimage{
 	width: 100%;
@@ -154,4 +137,11 @@ h1 a{
 }
 .onPageNav .toc-headings > li > a.active{
 	color: #01abdc;
+}
+.navigationSlider .slidingNav ul {
+  border: 1px solid #fff;
+}
+
+.navigationSlider .slidingNav ul li {
+  border: 1px solid #fff;
 }
